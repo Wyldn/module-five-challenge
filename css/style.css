@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .time-block {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .past {
+    background-color: #f2f2f2;
+  }
+  
+  .present {
+    background-color: #ffcccb;
+  }
+  
+  .future {
+    background-color: #d3f7f5;
+  }
+  
+  .hour, .description {
+    padding: 10px;
+  }
+  
+  .saveBtn {
+    padding: 5px 10px;
+  }
+  
